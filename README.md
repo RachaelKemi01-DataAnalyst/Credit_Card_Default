@@ -1,5 +1,6 @@
 # Credit_Card_Default
-Business Objective: A fictional financial institutions wants to take pragmatic steps on Lendees that will default the following month based on the historical data of payment per month and bill payment. The goal of the project is to accurately predict Lendee that will churn
+Business Objective: A fictional financial institutions wants to take pragmatic steps on Lendees that will default the following month based on the historical data of payment per month and bill payment. The goal of the project is to accurately predict Lendee that will churn.
+
 Dataset Decsription:
 The dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 The dataset contains a file which is UCI_card default. It contains 30,000 records.
